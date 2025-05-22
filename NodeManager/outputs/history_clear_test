@@ -1,0 +1,6 @@
+262$262$a
+262$0: new cat inputs/data/a
+1: execute 0
+262$262$262$262$0: echo two
+262$0: echo two
+262$

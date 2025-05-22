@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "listnode.h": "c",
+        "exec.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}

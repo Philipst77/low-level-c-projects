@@ -1,0 +1,9 @@
+new tail -n 7 avdol.txt
+new cat
+new wc
+open 1 joestar.txt
+open 2 kakyoin.txt
+list
+execute 2
+execute 1
+execute 0

@@ -1,0 +1,3 @@
+cd inputs/data
+new /bin/ls
+execute 0

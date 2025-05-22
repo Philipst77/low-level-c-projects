@@ -1,0 +1,8 @@
+new cat inputs/data/a
+execute 0
+history
+history -c
+history
+echo two
+history
+history
