@@ -62,23 +62,8 @@ project-root/
 To compile the project 
 
 ```bash
-make
-To run the task manager shell:
-
+Launch the task manager shell:
 ./strawhat
-
-To test your functions independently:
-
-gcc -o test test_wlf_sched.c wlf_sched.c
-./test
-
-To check for memory leaks:
-
-valgrind ./strawhat
-
-Look for this message to confirm success:
-
-All heap blocks were freed -- no leaks are possible
 
 📄 Process Management Notes
 Process state is stored in a 16-bit unsigned short:
