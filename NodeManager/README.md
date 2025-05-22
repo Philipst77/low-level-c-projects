@@ -76,4 +76,5 @@ python3 driver.py
 262$ quit
 
 🛡️ Error Handling
-All built-in commands include thorough error handling using strerror(errno) and clear custom messages for invalid input, file errors, or improper usage.
+All built-in commands include thorough error handling using strerror(errno)
+and clear custom messages for invalid input, file errors, or improper usage.
