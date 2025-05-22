@@ -59,7 +59,7 @@ project-root/
 
 ## ⚙️ Build & Run
 
-To compile the project on the Zeus server:
+To compile the project 
 
 ```bash
 make
