@@ -34,7 +34,7 @@ This shell application supports built-in commands and manages a custom linked li
 ---
 
 ## 📁 Project Structure
-
+```
 project-root/
 ├── src/ # Source files
 │ └── nodemngr.c
@@ -53,7 +53,7 @@ project-root/
 ├── kakyoin.txt # Example input file
 └── avdol.txt # Example input file
 
-
+```
 ---
 
 ## ⚙️ Build Instructions
