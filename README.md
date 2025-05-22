@@ -64,4 +64,5 @@ README.md          # Project documentation
 
 
 🧹 Memory Management
-All dynamic allocations are properly freed to prevent memory leaks. The code has been tested with Valgrind for clean execution.
+All dynamic allocations are properly freed to prevent memory leaks.
+The code has been tested with Valgrind for clean execution.
