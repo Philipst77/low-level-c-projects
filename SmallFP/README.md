@@ -1,4 +1,4 @@
-# 🧮 SmallFP: Software Floating-Point Library (CS 367 Project 2)
+# 🧮 SmallFP: Software Floating-Point Library 
 
 A low-level C implementation of a custom 11-bit floating-point library designed for embedded systems that lack native float or double support. This library is used by the MUAN (Micro-Ubiquitous Accounting Notary) programming language to support floating-point expressions.
 
